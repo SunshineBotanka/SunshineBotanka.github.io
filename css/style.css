@@ -2631,6 +2631,7 @@ color
   border-radius: 3px;
   font-family: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
   word-wrap: break-word;
+  white-space：pre-wrap;
   font-size: 14px;
 }
 .article-entry blockquote p {
